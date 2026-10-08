@@ -1,0 +1,6 @@
+{
+  "name": "Kỳ Vương AI - Cờ Tướng Trực Tuyến",
+  "description": "Game Cờ Tướng thông minh với AI Alpha-Beta phân tích nước đi, gợi ý nước cờ tối ưu, lưu lịch sử ván đấu và bảng xếp hạng trực tuyến.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
